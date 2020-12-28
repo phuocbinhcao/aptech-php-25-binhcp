@@ -1,0 +1,15 @@
+.div-1{
+    height: 200px;
+    width: 200px;
+    background-color: violet;
+}
+.div-2{
+    height: 200px;
+    width: 200px;
+    background-color: teal;
+}
+.div-cha{
+    display: flex;
+    flex-direction: row;
+    justify-content: left;
+}
