@@ -1,0 +1,21 @@
+
+body{
+    font-size: 100%;
+    width: 640px;
+    height: 600px;
+    padding: 16px;
+    margin: 1em, auto;
+    background-color: rgb(46, 45, 45) !important;
+}
+.lead{
+    color: white;
+}
+h1{
+    color: white;
+}
+.masthead-brand{
+    color: white;
+}
+.inner{
+    display: flex;
+}

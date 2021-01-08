@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bai tap Sticky Footer Navbar</title>
+    <link rel="stylesheet" href="./boostrap.css">
+    <link rel="stylesheet" href="./navbar.css">
+</head>
+<body class="d-flex flex-column">
+    <header>
+        <nav class="navbar navbar-expand-md navbar-dark fixed-top bg-dark">
+            <a href="" class="navbar-brand">Fixed navbar</a>
+            <div class="collapse navbar-collapse">
+                <ul class="navbar-nav mr-auto">
+                    <li class="nav-item active"><a class="nav-link" href="">Home</a></li>
+                    <li class="nav-item"><a class="nav-link" href="">Link</a></li>
+                    <li class="nav-item"><a class="nav-link" href="">Disabled</a></li>
+                </ul>
+                <form class="form-inline mt-2">
+                    <input class="form-control mr-2" type="text " placeholder="Search">
+                    <button class="btn btn-outline-success my-2" type="submit">Search</button>
+                </form>
+            </div>
+        </nav>
+    </header>
+    
+    
+    <div class=" d-flex flex-column h-100">
+            <div class="container">
+
+                 <h1 class="mt-5">Sticky footer with fixed navbar</h1>
+                 <p class="lead">Pin a footer to the bottom of the viewport in desktop 
+                    browsers with this custom HTML and CSS. A fixed navbar has been 
+                    added with <code> padding-top: 60px;</code> on the <code> main > .container.</code></p>
+                 <p>Back to <a href=""> the default sticky footer</a>
+                    minus the navbar.</p>
+                
+            </div>
+        
+
+        <footer class="footer mt-auto py-3 ">
+            <div class=" container">
+                <span class="text-muted">Place sticky footer content here.</span>
+            </div>
+        </footer>
+    </div>
+</body>
+</html>

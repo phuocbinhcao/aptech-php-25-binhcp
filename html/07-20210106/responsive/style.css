@@ -1,0 +1,24 @@
+.container1{
+    height: 200px;
+    background-color:red;
+}
+.container2{
+    height: 200px;
+    background-color: blue;
+}
+.container3{
+    height: 200px;
+    background-color: green;
+}
+@media only screen and (max-width: 760px) {
+    .container1 {background: green;}
+    .container2 {background: blue;}
+    .container3 {background: red;}
+  }
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 576px) {
+    .container1 {background: blue;}
+    .container2 {background: red;}
+    .container3 {background: green;}
+  }
+  
