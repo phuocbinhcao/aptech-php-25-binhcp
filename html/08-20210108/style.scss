@@ -1,0 +1,23 @@
+.Flag{
+    
+    margin-bottom: 0 !important;
+    &__Part{
+        &-1{
+            width: 50%;
+            height: 2px;
+            
+        }
+        &-2{
+            width: 50%;
+            height: 2px;
+        }
+        &-3{
+            width: 50%;
+            height: 2px;
+        }
+    }
+}
+.container{
+    width: 40px !important;
+    height: 40px !important;
+}

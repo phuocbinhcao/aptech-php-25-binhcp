@@ -1,0 +1,24 @@
+.Flag {
+  margin-bottom: 0 !important;
+}
+
+.Flag__Part-1 {
+  width: 50%;
+  height: 2px;
+}
+
+.Flag__Part-2 {
+  width: 50%;
+  height: 2px;
+}
+
+.Flag__Part-3 {
+  width: 50%;
+  height: 2px;
+}
+
+.container {
+  width: 40px !important;
+  height: 40px !important;
+}
+/*# sourceMappingURL=style.css.map */

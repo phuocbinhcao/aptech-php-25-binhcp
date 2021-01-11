@@ -1,0 +1,10 @@
+.jumbotron{
+    background-color: white !important;
+    
+}
+.Card{
+    &__Thumbnail--height{
+        height: 200px;
+        background-color: gray;
+    }
+}
