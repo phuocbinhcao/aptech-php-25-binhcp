@@ -1,0 +1,9 @@
+.Height-50px{
+    height: 50px;
+}
+.Card{
+    &__Free--height{
+        height: 50px;
+        background-color: gray;
+    }
+}
