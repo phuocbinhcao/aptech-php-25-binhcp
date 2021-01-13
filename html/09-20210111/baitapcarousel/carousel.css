@@ -1,0 +1,28 @@
+.Carousel_Caption {
+  background-image: url("./01.jpg");
+  background-position: center;
+  background-size: cover;
+  height: 500px;
+}
+
+.card {
+  border: 0 !important;
+}
+
+.card-img-top {
+  border-radius: 50% !important;
+  background-image: url(./01.jpg);
+  width: 120px !important;
+  height: 120px;
+}
+
+.Card-1 {
+  height: 500px;
+  background-color: #e9e6e6;
+}
+
+.Margin_text {
+  margin-top: 7rem !important;
+  font-size: 50px;
+}
+/*# sourceMappingURL=carousel.css.map */
