@@ -1,10 +1,9 @@
+.Height-50px {
+  height: 50px;
+}
+
 .Card__Free--height {
   height: 50px;
-  background-color: rgb(202, 199, 199);
-}
-img{
-  width: 20px;
-  height: 20px;
-  margin-bottom: 10px;
+  background-color: gray;
 }
 /*# sourceMappingURL=pricing.css.map */
