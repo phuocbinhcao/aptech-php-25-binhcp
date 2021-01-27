@@ -1,0 +1,52 @@
+{
+    "users": [
+        {
+            "id": 94,
+            "name": "h",
+            "email": "abc@gmail.com",
+            "password": "12121",
+            "created_at": "2021-01-21 03:28:17",
+            "updated_at": "2021-01-21 03:28:17"
+        },
+        {
+            "id": 93,
+            "name": "fuckkkk",
+            "email": "53450345034@0-495-345034",
+            "password": "325245-i989034i50934i54",
+            "created_at": "2021-01-20 13:38:34",
+            "updated_at": "2021-01-20 13:38:34"
+        },
+        {
+            "id": 92,
+            "name": "Tyler Ruecker",
+            "email": "olind@example.com",
+            "password": "$2y$10$595Li4ibmg3bGqnUqEyrmuieeGGuEX7Zf0yEEHEpP4N4mkNWQXsOS",
+            "created_at": "2021-01-20 11:45:10",
+            "updated_at": "2021-01-20 11:45:10"
+        },
+        {
+            "id": 90,
+            "name": "Golda Mertz",
+            "email": "faustino52@example.net",
+            "password": "$2y$10$RKs9l300SeFHEbvguouemuMe1vwGBIeQfdzTuLmbZp13kZj4ZxUJe",
+            "created_at": "2021-01-20 11:45:10",
+            "updated_at": "2021-01-20 11:45:10"
+        },
+        {
+            "id": 89,
+            "name": "Camille Auer",
+            "email": "fnader@example.org",
+            "password": "$2y$10$9FLmBSlF.DvOvPVRbHJcDun.dQFPt3S0Og9ikrO3fWJ3rzfsdWfHW",
+            "created_at": "2021-01-20 11:45:10",
+            "updated_at": "2021-01-20 11:45:10"
+        },
+        {
+            "id": 85,
+            "name": "Marcia Windler",
+            "email": "geoffrey.green@example.org",
+            "password": "$2y$10$BRN\/.lx17wNMWrifzQK2c.dSwbigRqPnyjnVM9JGIbpdnPuytaWt6",
+            "created_at": "2021-01-20 11:45:09",
+            "updated_at": "2021-01-20 11:45:09"
+        }
+    ]
+}
