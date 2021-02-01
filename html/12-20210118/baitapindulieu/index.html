@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script src="./jquery.js"></script>
+</head>
+<body>
+    <script type="text/javascript">
+        $.ajax(
+            type: 'GET',
+            url: "https://github.com/search?q=aptech-php-25",
+            success: function(response) {
+                console.log("Data type: " + (typeof response));
+                console.log("Application name: " + response.name);
+            },
+        );
+    </script>
+     
+</body>
+</html>

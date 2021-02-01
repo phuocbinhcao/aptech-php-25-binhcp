@@ -8,13 +8,13 @@ function inDuLieu(){
 
 
     var tableElement = document.getElementById('tableBody');
-    
+    var text ='';
   for (var i =0; i < sanPham.length; i++){
     // tao tr
     var tr = document.createElement('tr');
-
     for (var j=0; j < sanPham[i].length; j++) {
       //  tao td
+      
         var td = document.createElement('td');
       //  dua du lieu vao td
          td.innerHTML = sanPham[i][j];
@@ -22,7 +22,7 @@ function inDuLieu(){
         tr.appendChild(td);
     }
     // dua tr vao body
-    tableElement.appendChild(tr);
+    tableElement.appendChild(tr);  
   }
-  
+ 
 }
