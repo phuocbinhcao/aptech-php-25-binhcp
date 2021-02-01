@@ -1,0 +1,37 @@
+.Image1 {
+  height: 280px;
+  background-image: url("https://images.unsplash.com/photo-1542300162-fbb928a2b400?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=750&q=80");
+  border-radius: 0 !important;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+
+.Image2 {
+  height: 280px;
+  background-image: url("https://images.unsplash.com/photo-1611518821112-0a53ca4ecf96?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80");
+  border-radius: 0 !important;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+
+.card-header, .list-group-item {
+  padding-top: 0.65rem !important;
+  padding-bottom: 0.6rem !important;
+}
+
+.New__col {
+  display: table-cell;
+}
+
+.New__Image {
+  height: 150px;
+  background-position: center;
+  background-size: cover;
+  -webkit-filter: brightness(50%);
+          filter: brightness(50%);
+}
+/*# sourceMappingURL=new.css.map */
